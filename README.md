@@ -1,6 +1,6 @@
 # Crack Your Internship & Crack Your Placement Challenge
 
-Excited to announce that I’m taking the #CrackYourInternship and #CrackYourPlacement challenge starting today for the next 45-60 days! 💪
+Excited to announce that I’m taking the #CrackYourInternship and #CrackYourPlacement challenge starting today [15-7-2024] for the next 45-60 days! 💪
 
 ## About the Challenge
 
