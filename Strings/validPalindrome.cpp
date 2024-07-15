@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Brute Force --> try removing every character and see if remaining string is palindrome
+
 class Solution {
 public:
     bool isPalindrome(const string& s, int left, int right) {
