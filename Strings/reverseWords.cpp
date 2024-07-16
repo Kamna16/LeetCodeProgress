@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// 1) using stringStream
+// 1) using 2 pointer
+
 class Solution {
 public:
     string reverseWords(string s) {
