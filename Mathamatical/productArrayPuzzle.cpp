@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Approach2 - gfg
 class Solution{
   public:
     vector<long long int> productExceptSelf(vector<long long int>& nums, int n) {
@@ -34,28 +35,31 @@ class Solution{
     }
 };
 
-int main()
- {
-    int t;  // number of test cases
-    cin>>t;
-    while(t--)
-    {
-        int n;  // size of the array
-        cin>>n;
-        vector<long long int> arr(n),vec(n);
-        
-        for(int i=0;i<n;i++)    // input the array
+// Approach2 - leetcode
+class Solution {
+public:
+    vector<int> productExceptSelf(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> ans(n);
+        int totalProduct = 1;
+        int suffix[n];        
+        int prefix[n];        
+        prefix[0] =1;
+        for(int i=1;i<n;i++)
         {
-            cin>>arr[i];
+            prefix[i] = prefix[i-1]* nums[i-1];
         }
-        Solution obj;
-        vec = obj.productExceptSelf(arr,n);   // function call
-        
-        for(int i=0;i<n;i++)    // print the output
+        suffix[n-1] =1;
+        for(int i=n-2;i>=0;i--)
         {
-            cout << vec[i] << " ";
+            suffix[i] = suffix[i+1]* nums[i+1];
         }
-        cout<<endl;
+        for(int i=0;i<n;i++)
+        {
+            ans[i] = prefix[i]*suffix[i];
+        }
+
+        return ans;
+
     }
-	return 0;
-}
+};
