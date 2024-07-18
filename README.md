@@ -11,7 +11,7 @@ This repository will document my journey through the #CrackYourInternship and #C
 The repository is organized as follows:
 
 - **Daily Progress**: Logs of daily activities, tasks completed.
-- **Code Snippets**: Solutions to coding problems, algorithm implementations, and other relevant code.
+- **Code Snippets**: Solutions to coding problems, algorithm implementations, and other relevant code, with comments and explanations of my approaches.
 
 
 ## Connect with Me
