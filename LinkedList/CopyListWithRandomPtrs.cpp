@@ -8,11 +8,12 @@ struct Node
     Node* random;
     
     Node(int x){
-        data = x;
+        val = x;
         next = NULL;
     }
 };
 
+// Approach 1 --> using map
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
