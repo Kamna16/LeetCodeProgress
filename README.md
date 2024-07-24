@@ -51,6 +51,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0148-sort-list) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Kamna16/CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0739-daily-temperatures](https://github.com/Kamna16/CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [1036-rotting-oranges](https://github.com/Kamna16/CrackYourPlacement/tree/master/1036-rotting-oranges) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Kamna16/CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
