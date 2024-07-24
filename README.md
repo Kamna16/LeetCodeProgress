@@ -66,6 +66,7 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0143-reorder-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/Kamna16/CrackYourPlacement/tree/master/0739-daily-temperatures) |
+| [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 ## Recursion
 |  |
 | ------- |
@@ -75,12 +76,14 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0041-first-missing-positive](https://github.com/Kamna16/CrackYourPlacement/tree/master/0041-first-missing-positive) |
 | [0739-daily-temperatures](https://github.com/Kamna16/CrackYourPlacement/tree/master/0739-daily-temperatures) |
+| [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/Kamna16/CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Kamna16/CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Kamna16/CrackYourPlacement/tree/master/0739-daily-temperatures) |
+| [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -102,4 +105,8 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Kamna16/CrackYourPlacement/tree/master/0146-lru-cache) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
