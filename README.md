@@ -28,6 +28,7 @@ Let’s crack this challenge together! 💪🔥
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Kamna16/CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -38,6 +39,7 @@ Let’s crack this challenge together! 💪🔥
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0143-reorder-list) |
