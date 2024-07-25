@@ -96,6 +96,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Kamna16/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1036-rotting-oranges](https://github.com/Kamna16/CrackYourPlacement/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
@@ -139,14 +140,21 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Kamna16/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Kamna16/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Kamna16/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
