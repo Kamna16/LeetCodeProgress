@@ -95,6 +95,7 @@ Let’s crack this challenge together! 💪🔥
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Kamna16/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -139,6 +140,7 @@ Let’s crack this challenge together! 💪🔥
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -147,6 +149,7 @@ Let’s crack this challenge together! 💪🔥
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -155,6 +158,7 @@ Let’s crack this challenge together! 💪🔥
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
