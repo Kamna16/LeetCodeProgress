@@ -97,6 +97,7 @@ Let’s crack this challenge together! 💪🔥
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Kamna16/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
@@ -143,6 +144,7 @@ Let’s crack this challenge together! 💪🔥
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
@@ -154,6 +156,7 @@ Let’s crack this challenge together! 💪🔥
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0112-path-sum) |
@@ -164,6 +167,7 @@ Let’s crack this challenge together! 💪🔥
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
