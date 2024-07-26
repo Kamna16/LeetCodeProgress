@@ -153,6 +153,7 @@ Let’s crack this challenge together! 💪🔥
 | [0257-binary-tree-paths](https://github.com/Kamna16/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Kamna16/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -165,6 +166,7 @@ Let’s crack this challenge together! 💪🔥
 | [0257-binary-tree-paths](https://github.com/Kamna16/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Kamna16/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -178,6 +180,7 @@ Let’s crack this challenge together! 💪🔥
 | [0257-binary-tree-paths](https://github.com/Kamna16/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Kamna16/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -190,4 +193,12 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kamna16/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
