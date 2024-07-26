@@ -72,6 +72,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Kamna16/CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -79,6 +80,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Let’s crack this challenge together! 💪🔥
 | [0112-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Kamna16/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [1036-rotting-oranges](https://github.com/Kamna16/CrackYourPlacement/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
@@ -123,11 +126,14 @@ Let’s crack this challenge together! 💪🔥
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Kamna16/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## String
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kamna16/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+| [0394-decode-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0394-decode-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Bucket Sort
 |  |
@@ -154,6 +160,7 @@ Let’s crack this challenge together! 💪🔥
 | [0404-sum-of-left-leaves](https://github.com/Kamna16/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -167,6 +174,7 @@ Let’s crack this challenge together! 💪🔥
 | [0404-sum-of-left-leaves](https://github.com/Kamna16/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -181,6 +189,7 @@ Let’s crack this challenge together! 💪🔥
 | [0404-sum-of-left-leaves](https://github.com/Kamna16/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -201,4 +210,16 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
+## Graph
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Kamna16/CrackYourPlacement/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
