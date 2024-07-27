@@ -86,6 +86,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Kamna16/CrackYourPlacement/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Kamna16/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kamna16/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -113,6 +114,7 @@ Let’s crack this challenge together! 💪🔥
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kamna16/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [1036-rotting-oranges](https://github.com/Kamna16/CrackYourPlacement/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
@@ -231,6 +233,7 @@ Let’s crack this challenge together! 💪🔥
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kamna16/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Randomized
 |  |
