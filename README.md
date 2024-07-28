@@ -50,11 +50,13 @@ Let’s crack this challenge together! 💪🔥
 | [0023-merge-k-sorted-lists](https://github.com/Kamna16/CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Kamna16/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Kamna16/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Kamna16/CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
 ## Merge Sort
@@ -67,6 +69,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kamna16/CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Kamna16/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0948-sort-an-array) |
 ## Stack
 |  |
@@ -89,6 +92,7 @@ Let’s crack this challenge together! 💪🔥
 | [0048-rotate-image](https://github.com/Kamna16/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kamna16/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Kamna16/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0739-daily-temperatures](https://github.com/Kamna16/CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
@@ -123,6 +127,7 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0041-first-missing-positive](https://github.com/Kamna16/CrackYourPlacement/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/Kamna16/CrackYourPlacement/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/Kamna16/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 ## Design
@@ -151,6 +156,7 @@ Let’s crack this challenge together! 💪🔥
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kamna16/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -159,6 +165,7 @@ Let’s crack this challenge together! 💪🔥
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kamna16/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0948-sort-an-array) |
 ## Tree
 |  |
@@ -263,4 +270,8 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kamna16/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
