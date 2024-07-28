@@ -124,6 +124,7 @@ Let’s crack this challenge together! 💪🔥
 | [0041-first-missing-positive](https://github.com/Kamna16/CrackYourPlacement/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/Kamna16/CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 ## Design
 |  |
 | ------- |
@@ -145,6 +146,7 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kamna16/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Bucket Sort
 |  |
@@ -257,4 +259,8 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
