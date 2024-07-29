@@ -73,6 +73,7 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kamna16/CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kamna16/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kamna16/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0948-sort-an-array) |
@@ -139,6 +140,7 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0041-first-missing-positive](https://github.com/Kamna16/CrackYourPlacement/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/Kamna16/CrackYourPlacement/tree/master/0146-lru-cache) |
+| [0264-ugly-number-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kamna16/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
@@ -155,6 +157,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
+| [0264-ugly-number-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Kamna16/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -280,6 +283,7 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0048-rotate-image](https://github.com/Kamna16/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
+| [0264-ugly-number-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Randomized
 |  |
