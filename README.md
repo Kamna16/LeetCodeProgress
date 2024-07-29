@@ -246,6 +246,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Kamna16/CrackYourPlacement/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/Kamna16/CrackYourPlacement/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/Kamna16/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 ## String Matching
 |  |
