@@ -97,6 +97,7 @@ Let’s crack this challenge together! 💪🔥
 | [0048-rotate-image](https://github.com/Kamna16/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Kamna16/CrackYourPlacement/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kamna16/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Kamna16/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
@@ -247,6 +248,7 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0051-n-queens](https://github.com/Kamna16/CrackYourPlacement/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Kamna16/CrackYourPlacement/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Kamna16/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 ## String Matching
 |  |
@@ -269,6 +271,7 @@ Let’s crack this challenge together! 💪🔥
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0338-counting-bits](https://github.com/Kamna16/CrackYourPlacement/tree/master/0338-counting-bits) |
 ## Math
 |  |
