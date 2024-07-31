@@ -356,4 +356,8 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Kamna16/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Kamna16/CrackYourPlacement/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
