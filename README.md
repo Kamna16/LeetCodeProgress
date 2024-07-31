@@ -359,5 +359,6 @@ Let’s crack this challenge together! 💪🔥
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Kamna16/CrackYourPlacement/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Kamna16/CrackYourPlacement/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
