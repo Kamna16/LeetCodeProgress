@@ -128,6 +128,7 @@ Let’s crack this challenge together! 💪🔥
 | [1333-sort-the-jumbled-numbers](https://github.com/Kamna16/CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/Kamna16/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kamna16/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Kamna16/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 ## Monotonic Stack
 |  |
@@ -344,6 +345,7 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Quickselect
 |  |
 | ------- |
