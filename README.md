@@ -40,6 +40,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0143-reorder-list) |
@@ -104,6 +105,7 @@ Let’s crack this challenge together! 💪🔥
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Kamna16/CrackYourPlacement/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Kamna16/CrackYourPlacement/tree/master/0048-rotate-image) |
