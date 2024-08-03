@@ -352,6 +352,7 @@ Let’s crack this challenge together! 💪🔥
 | [0048-rotate-image](https://github.com/Kamna16/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kamna16/CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/Kamna16/CrackYourPlacement/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Kamna16/CrackYourPlacement/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -411,4 +412,12 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/Kamna16/CrackYourPlacement/tree/master/0587-erect-the-fence) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Kamna16/CrackYourPlacement/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Kamna16/CrackYourPlacement/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
