@@ -115,6 +115,7 @@ Let’s crack this challenge together! 💪🔥
 | [0084-largest-rectangle-in-histogram](https://github.com/Kamna16/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0134-gas-station](https://github.com/Kamna16/CrackYourPlacement/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kamna16/CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
@@ -380,6 +381,7 @@ Let’s crack this challenge together! 💪🔥
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Kamna16/CrackYourPlacement/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Kamna16/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Kamna16/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kamna16/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
