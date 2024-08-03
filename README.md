@@ -66,6 +66,7 @@ Let’s crack this challenge together! 💪🔥
 | [0621-task-scheduler](https://github.com/Kamna16/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Kamna16/CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kamna16/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Merge Sort
 |  |
 | ------- |
@@ -133,6 +134,7 @@ Let’s crack this challenge together! 💪🔥
 | [1196-filling-bookcase-shelves](https://github.com/Kamna16/CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Kamna16/CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/Kamna16/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kamna16/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kamna16/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Kamna16/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
@@ -176,6 +178,7 @@ Let’s crack this challenge together! 💪🔥
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/Kamna16/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kamna16/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Design
 |  |
 | ------- |
