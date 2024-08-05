@@ -22,14 +22,6 @@ struct Node
 class Solution
 {
     public:
-    vector<Node*> inorder;
-    void inorderTraversal(Node* root)
-    {
-        if(!root) return;
-        inorderTraversal(root->left);
-        inorder.push_back(root);
-        inorderTraversal(root->right);
-    }
     void findPreSuc(Node* root, Node*& pre, Node*& suc, int key)
     {
         pre = NULL;
