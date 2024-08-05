@@ -167,6 +167,7 @@ Let’s crack this challenge together! 💪🔥
 | [0404-sum-of-left-leaves](https://github.com/Kamna16/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Kamna16/CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Kamna16/CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -275,6 +276,7 @@ Let’s crack this challenge together! 💪🔥
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
@@ -295,6 +297,7 @@ Let’s crack this challenge together! 💪🔥
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
@@ -318,6 +321,7 @@ Let’s crack this challenge together! 💪🔥
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
