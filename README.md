@@ -214,6 +214,7 @@ Let’s crack this challenge together! 💪🔥
 | [0091-decode-ways](https://github.com/Kamna16/CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
+| [0131-palindrome-partitioning](https://github.com/Kamna16/CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Kamna16/CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
@@ -231,6 +232,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Kamna16/CrackYourPlacement/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/Kamna16/CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Kamna16/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
@@ -351,6 +353,7 @@ Let’s crack this challenge together! 💪🔥
 | [0077-combinations](https://github.com/Kamna16/CrackYourPlacement/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/Kamna16/CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Kamna16/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 ## String Matching
 |  |
