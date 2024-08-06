@@ -70,6 +70,7 @@ Let’s crack this challenge together! 💪🔥
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kamna16/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Kamna16/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Kamna16/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Let’s crack this challenge together! 💪🔥
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Kamna16/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Kamna16/CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
 | ------- |
@@ -239,6 +241,7 @@ Let’s crack this challenge together! 💪🔥
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Kamna16/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamna16/CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -255,6 +258,7 @@ Let’s crack this challenge together! 💪🔥
 | [0621-task-scheduler](https://github.com/Kamna16/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
 | ------- |
@@ -413,6 +417,7 @@ Let’s crack this challenge together! 💪🔥
 | [1762-furthest-building-you-can-reach](https://github.com/Kamna16/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Kamna16/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamna16/CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
 |  |
 | ------- |
