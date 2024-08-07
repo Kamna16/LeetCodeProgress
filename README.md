@@ -106,6 +106,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0143-reorder-list) |
+| [0273-integer-to-english-words](https://github.com/Kamna16/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0394-decode-string) |
 ## Array
 |  |
@@ -238,6 +239,7 @@ Let’s crack this challenge together! 💪🔥
 | [0091-decode-ways](https://github.com/Kamna16/CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Kamna16/CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Kamna16/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+| [0273-integer-to-english-words](https://github.com/Kamna16/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -391,6 +393,7 @@ Let’s crack this challenge together! 💪🔥
 | [0258-add-digits](https://github.com/Kamna16/CrackYourPlacement/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Kamna16/CrackYourPlacement/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+| [0273-integer-to-english-words](https://github.com/Kamna16/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0587-erect-the-fence](https://github.com/Kamna16/CrackYourPlacement/tree/master/0587-erect-the-fence) |
