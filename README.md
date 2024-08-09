@@ -88,6 +88,7 @@ Let’s crack this challenge together! 💪🔥
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kamna16/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Kamna16/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0948-sort-an-array) |
+| [1622-max-value-of-equation](https://github.com/Kamna16/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kamna16/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 ## Stack
 |  |
@@ -149,6 +150,7 @@ Let’s crack this challenge together! 💪🔥
 | [1511-count-number-of-teams](https://github.com/Kamna16/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kamna16/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Kamna16/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1622-max-value-of-equation](https://github.com/Kamna16/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Kamna16/CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kamna16/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Kamna16/CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -417,6 +419,7 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
+| [1622-max-value-of-equation](https://github.com/Kamna16/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Quickselect
 |  |
@@ -444,10 +447,12 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/Kamna16/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
+| [1622-max-value-of-equation](https://github.com/Kamna16/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+| [1622-max-value-of-equation](https://github.com/Kamna16/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Data Stream
 |  |
 | ------- |
