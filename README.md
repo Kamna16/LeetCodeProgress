@@ -139,6 +139,7 @@ Let’s crack this challenge together! 💪🔥
 | [0587-erect-the-fence](https://github.com/Kamna16/CrackYourPlacement/tree/master/0587-erect-the-fence) |
 | [0621-task-scheduler](https://github.com/Kamna16/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/Kamna16/CrackYourPlacement/tree/master/0739-daily-temperatures) |
+| [0870-magic-squares-in-grid](https://github.com/Kamna16/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0948-sort-an-array) |
@@ -186,6 +187,7 @@ Let’s crack this challenge together! 💪🔥
 | [0048-rotate-image](https://github.com/Kamna16/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kamna16/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/Kamna16/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [1022-unique-paths-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Kamna16/CrackYourPlacement/tree/master/1036-rotting-oranges) |
@@ -200,6 +202,7 @@ Let’s crack this challenge together! 💪🔥
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/Kamna16/CrackYourPlacement/tree/master/0621-task-scheduler) |
+| [0870-magic-squares-in-grid](https://github.com/Kamna16/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kamna16/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Kamna16/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -409,6 +412,7 @@ Let’s crack this challenge together! 💪🔥
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0587-erect-the-fence](https://github.com/Kamna16/CrackYourPlacement/tree/master/0587-erect-the-fence) |
+| [0870-magic-squares-in-grid](https://github.com/Kamna16/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamna16/CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Randomized
 |  |
