@@ -196,6 +196,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Kamna16/CrackYourPlacement/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/Kamna16/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Kamna16/CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kamna16/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
@@ -247,6 +248,7 @@ Let’s crack this challenge together! 💪🔥
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Kamna16/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Kamna16/CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Kamna16/CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Kamna16/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
@@ -421,6 +423,7 @@ Let’s crack this challenge together! 💪🔥
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Kamna16/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [1622-max-value-of-equation](https://github.com/Kamna16/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
