@@ -2,8 +2,6 @@
 using namespace std;
 
 #define V 4
-void printSolution(int color[]);
-
 bool isSafe(int v, bool graph[V][V], int color[], int c)
 {
     for (int i = 0; i < V; i++)
@@ -60,7 +58,5 @@ bool graphColoring(bool graph[V][V], int m)
         return false;
     }
 
-    // Print the solution
-    printSolution(color);
     return true;
 }
