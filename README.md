@@ -87,6 +87,7 @@ Let’s crack this challenge together! 💪🔥
 | [0347-top-k-frequent-elements](https://github.com/Kamna16/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kamna16/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Kamna16/CrackYourPlacement/tree/master/0621-task-scheduler) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Kamna16/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1622-max-value-of-equation](https://github.com/Kamna16/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kamna16/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
@@ -228,6 +229,7 @@ Let’s crack this challenge together! 💪🔥
 | [0307-range-sum-query-mutable](https://github.com/Kamna16/CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/Kamna16/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Kamna16/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Kamna16/CrackYourPlacement/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
 |  |
@@ -315,6 +317,7 @@ Let’s crack this challenge together! 💪🔥
 | [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Kamna16/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
@@ -362,6 +365,7 @@ Let’s crack this challenge together! 💪🔥
 | [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Kamna16/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
@@ -376,6 +380,7 @@ Let’s crack this challenge together! 💪🔥
 | [0300-longest-increasing-subsequence](https://github.com/Kamna16/CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kamna16/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Kamna16/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Kamna16/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Backtracking
@@ -477,6 +482,7 @@ Let’s crack this challenge together! 💪🔥
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Kamna16/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Kamna16/CrackYourPlacement/tree/master/0937-online-stock-span) |
 ## Iterator
 |  |
