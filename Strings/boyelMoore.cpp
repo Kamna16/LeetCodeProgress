@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define NO_OF_CHARS 256
+// https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/
  
 void badCharHeuristic(string str, int size,
                       int badchar[NO_OF_CHARS])
