@@ -45,6 +45,7 @@ Let’s crack this challenge together! 💪🔥
 | [0086-partition-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0148-sort-list) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Kamna16/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Divide and Conquer
 |  |
@@ -66,6 +67,7 @@ Let’s crack this challenge together! 💪🔥
 | [0435-non-overlapping-intervals](https://github.com/Kamna16/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/Kamna16/CrackYourPlacement/tree/master/0621-task-scheduler) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Kamna16/CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Kamna16/CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
@@ -145,6 +147,7 @@ Let’s crack this challenge together! 💪🔥
 | [0526-beautiful-arrangement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0587-erect-the-fence](https://github.com/Kamna16/CrackYourPlacement/tree/master/0587-erect-the-fence) |
 | [0621-task-scheduler](https://github.com/Kamna16/CrackYourPlacement/tree/master/0621-task-scheduler) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/Kamna16/CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0870-magic-squares-in-grid](https://github.com/Kamna16/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Kamna16/CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -387,6 +390,7 @@ Let’s crack this challenge together! 💪🔥
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kamna16/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Kamna16/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kamna16/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Kamna16/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
