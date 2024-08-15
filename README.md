@@ -41,6 +41,7 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Kamna16/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0143-reorder-list) |
@@ -102,6 +103,7 @@ Let’s crack this challenge together! 💪🔥
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kamna16/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kamna16/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kamna16/CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -125,6 +127,7 @@ Let’s crack this challenge together! 💪🔥
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Kamna16/CrackYourPlacement/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Kamna16/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Kamna16/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Kamna16/CrackYourPlacement/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
@@ -179,6 +182,7 @@ Let’s crack this challenge together! 💪🔥
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kamna16/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kamna16/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Kamna16/CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Kamna16/CrackYourPlacement/tree/master/0937-online-stock-span) |
@@ -254,6 +258,7 @@ Let’s crack this challenge together! 💪🔥
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kamna16/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/Kamna16/CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
