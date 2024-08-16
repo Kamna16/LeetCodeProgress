@@ -140,6 +140,7 @@ Let’s crack this challenge together! 💪🔥
 | [0152-maximum-product-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+| [0289-game-of-life](https://github.com/Kamna16/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Kamna16/CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Kamna16/CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Kamna16/CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
@@ -212,6 +213,7 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0048-rotate-image](https://github.com/Kamna16/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0289-game-of-life](https://github.com/Kamna16/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kamna16/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/Kamna16/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
@@ -544,6 +546,7 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0068-text-justification](https://github.com/Kamna16/CrackYourPlacement/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Kamna16/CrackYourPlacement/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/Kamna16/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0921-spiral-matrix-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 ## Number Theory
 |  |
