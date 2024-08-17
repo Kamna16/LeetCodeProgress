@@ -178,6 +178,7 @@ Let’s crack this challenge together! 💪🔥
 | [1762-furthest-building-you-can-reach](https://github.com/Kamna16/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Kamna16/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Kamna16/CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Kamna16/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Kamna16/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
@@ -281,6 +282,7 @@ Let’s crack this challenge together! 💪🔥
 | [1511-count-number-of-teams](https://github.com/Kamna16/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Kamna16/CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Kamna16/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Kamna16/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 ## String
 |  |
 | ------- |
