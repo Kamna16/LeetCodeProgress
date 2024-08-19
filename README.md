@@ -275,6 +275,7 @@ Let’s crack this challenge together! 💪🔥
 | [0338-counting-bits](https://github.com/Kamna16/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Kamna16/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0526-beautiful-arrangement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
+| [0650-2-keys-keyboard](https://github.com/Kamna16/CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1196-filling-bookcase-shelves](https://github.com/Kamna16/CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kamna16/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -463,6 +464,7 @@ Let’s crack this challenge together! 💪🔥
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0587-erect-the-fence](https://github.com/Kamna16/CrackYourPlacement/tree/master/0587-erect-the-fence) |
+| [0650-2-keys-keyboard](https://github.com/Kamna16/CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Kamna16/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamna16/CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Randomized
