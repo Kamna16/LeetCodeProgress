@@ -140,6 +140,7 @@ Let’s crack this challenge together! 💪🔥
 | [0152-maximum-product-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/Kamna16/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Kamna16/CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
@@ -231,6 +232,7 @@ Let’s crack this challenge together! 💪🔥
 | [0076-minimum-window-substring](https://github.com/Kamna16/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Kamna16/CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kamna16/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -480,6 +482,7 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Kamna16/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
