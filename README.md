@@ -282,6 +282,7 @@ Let’s crack this challenge together! 💪🔥
 | [0474-ones-and-zeroes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0526-beautiful-arrangement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0650-2-keys-keyboard](https://github.com/Kamna16/CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/Kamna16/CrackYourPlacement/tree/master/0664-strange-printer) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1196-filling-bookcase-shelves](https://github.com/Kamna16/CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kamna16/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -304,6 +305,7 @@ Let’s crack this challenge together! 💪🔥
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0664-strange-printer](https://github.com/Kamna16/CrackYourPlacement/tree/master/0664-strange-printer) |
 | [0778-reorganize-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Kamna16/CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
