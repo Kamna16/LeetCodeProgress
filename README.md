@@ -125,6 +125,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Kamna16/CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Kamna16/CrackYourPlacement/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Kamna16/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
@@ -216,6 +217,7 @@ Let’s crack this challenge together! 💪🔥
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Kamna16/CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Kamna16/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/Kamna16/CrackYourPlacement/tree/master/0289-game-of-life) |
@@ -230,6 +232,7 @@ Let’s crack this challenge together! 💪🔥
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Kamna16/CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Kamna16/CrackYourPlacement/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Kamna16/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Kamna16/CrackYourPlacement/tree/master/0146-lru-cache) |
@@ -431,6 +434,7 @@ Let’s crack this challenge together! 💪🔥
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Kamna16/CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Kamna16/CrackYourPlacement/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Kamna16/CrackYourPlacement/tree/master/0077-combinations) |
