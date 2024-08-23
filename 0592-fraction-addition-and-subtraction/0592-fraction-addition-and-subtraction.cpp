@@ -1,8 +1,8 @@
 class Solution {
 public:
     string fractionAddition(string exp) {
-       long long num = 0;    // Use long long to avoid overflow
-        long long deno = 1;   // Use long long to avoid overflow
+       long long num = 0;   
+        long long deno = 1;  
         int i = 0;
         int n = exp.size();
         
@@ -25,8 +25,7 @@ public:
                 currNum *= -1;
             }
             
-            i++; // Skip the '/' character
-            
+            i++; 
             while (i < n && isdigit(exp[i])) {
                 int val = exp[i] - '0';
                 currDeno = (currDeno * 10) + val;
