@@ -106,6 +106,7 @@ Let’s crack this challenge together! 💪🔥
 | [0042-trapping-rain-water](https://github.com/Kamna16/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kamna16/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kamna16/CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kamna16/CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0341-flatten-nested-list-iterator](https://github.com/Kamna16/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0394-decode-string) |
@@ -358,6 +359,7 @@ Let’s crack this challenge together! 💪🔥
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kamna16/CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kamna16/CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -380,6 +382,7 @@ Let’s crack this challenge together! 💪🔥
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kamna16/CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kamna16/CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -409,6 +412,7 @@ Let’s crack this challenge together! 💪🔥
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kamna16/CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kamna16/CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
