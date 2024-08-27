@@ -98,6 +98,7 @@ Let’s crack this challenge together! 💪🔥
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kamna16/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Kamna16/CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/Kamna16/CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1622-max-value-of-equation](https://github.com/Kamna16/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kamna16/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 ## Stack
@@ -106,10 +107,13 @@ Let’s crack this challenge together! 💪🔥
 | [0042-trapping-rain-water](https://github.com/Kamna16/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kamna16/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kamna16/CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kamna16/CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/Kamna16/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/Kamna16/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Kamna16/CrackYourPlacement/tree/master/0739-daily-temperatures) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Kamna16/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/Kamna16/CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -125,6 +129,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Kamna16/CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Kamna16/CrackYourPlacement/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Kamna16/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
@@ -159,6 +164,7 @@ Let’s crack this challenge together! 💪🔥
 | [0587-erect-the-fence](https://github.com/Kamna16/CrackYourPlacement/tree/master/0587-erect-the-fence) |
 | [0621-task-scheduler](https://github.com/Kamna16/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kamna16/CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Kamna16/CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/Kamna16/CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0870-magic-squares-in-grid](https://github.com/Kamna16/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
@@ -171,6 +177,7 @@ Let’s crack this challenge together! 💪🔥
 | [1022-unique-paths-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Kamna16/CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1196-filling-bookcase-shelves](https://github.com/Kamna16/CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
+| [1325-path-with-maximum-probability](https://github.com/Kamna16/CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Kamna16/CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kamna16/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1511-count-number-of-teams](https://github.com/Kamna16/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
@@ -206,16 +213,20 @@ Let’s crack this challenge together! 💪🔥
 | [0322-coin-change](https://github.com/Kamna16/CrackYourPlacement/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Kamna16/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Kamna16/CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Kamna16/CrackYourPlacement/tree/master/1036-rotting-oranges) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Kamna16/CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Kamna16/CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Kamna16/CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Kamna16/CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Kamna16/CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Kamna16/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/Kamna16/CrackYourPlacement/tree/master/0289-game-of-life) |
@@ -230,6 +241,7 @@ Let’s crack this challenge together! 💪🔥
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Kamna16/CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Kamna16/CrackYourPlacement/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Kamna16/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Kamna16/CrackYourPlacement/tree/master/0146-lru-cache) |
@@ -248,12 +260,14 @@ Let’s crack this challenge together! 💪🔥
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kamna16/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Kamna16/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Kamna16/CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Kamna16/CrackYourPlacement/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Kamna16/CrackYourPlacement/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/Kamna16/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Kamna16/CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Kamna16/CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
@@ -285,6 +299,7 @@ Let’s crack this challenge together! 💪🔥
 | [0526-beautiful-arrangement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0650-2-keys-keyboard](https://github.com/Kamna16/CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Kamna16/CrackYourPlacement/tree/master/0664-strange-printer) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Kamna16/CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1196-filling-bookcase-shelves](https://github.com/Kamna16/CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kamna16/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -307,12 +322,15 @@ Let’s crack this challenge together! 💪🔥
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0564-find-the-closest-palindrome](https://github.com/Kamna16/CrackYourPlacement/tree/master/0564-find-the-closest-palindrome) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Kamna16/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Kamna16/CrackYourPlacement/tree/master/0664-strange-printer) |
 | [0778-reorganize-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Kamna16/CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Kamna16/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Kamna16/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Kamna16/CrackYourPlacement/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Kamna16/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamna16/CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -347,6 +365,8 @@ Let’s crack this challenge together! 💪🔥
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kamna16/CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Kamna16/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Kamna16/CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -358,9 +378,11 @@ Let’s crack this challenge together! 💪🔥
 | [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Kamna16/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kamna16/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Kamna16/CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -369,6 +391,7 @@ Let’s crack this challenge together! 💪🔥
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kamna16/CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kamna16/CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -377,12 +400,16 @@ Let’s crack this challenge together! 💪🔥
 | [0341-flatten-nested-list-iterator](https://github.com/Kamna16/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/Kamna16/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Kamna16/CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Kamna16/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [0999-regions-cut-by-slashes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Kamna16/CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Kamna16/CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Kamna16/CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Tree
 |  |
@@ -396,6 +423,8 @@ Let’s crack this challenge together! 💪🔥
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kamna16/CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Kamna16/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Kamna16/CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -416,6 +445,7 @@ Let’s crack this challenge together! 💪🔥
 | [0096-unique-binary-search-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Kamna16/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -431,6 +461,7 @@ Let’s crack this challenge together! 💪🔥
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Kamna16/CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Kamna16/CrackYourPlacement/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Kamna16/CrackYourPlacement/tree/master/0077-combinations) |
@@ -439,6 +470,7 @@ Let’s crack this challenge together! 💪🔥
 | [0131-palindrome-partitioning](https://github.com/Kamna16/CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Kamna16/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0526-beautiful-arrangement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Kamna16/CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1022-unique-paths-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 ## String Matching
 |  |
@@ -451,11 +483,15 @@ Let’s crack this challenge together! 💪🔥
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Kamna16/CrackYourPlacement/tree/master/0547-number-of-provinces) |
+| [1325-path-with-maximum-probability](https://github.com/Kamna16/CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Kamna16/CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Kamna16/CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/Kamna16/CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Kamna16/CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Bit Manipulation
@@ -465,6 +501,7 @@ Let’s crack this challenge together! 💪🔥
 | [0338-counting-bits](https://github.com/Kamna16/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0476-number-complement) |
 | [0526-beautiful-arrangement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Kamna16/CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1022-unique-paths-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 ## Math
 |  |
@@ -478,7 +515,9 @@ Let’s crack this challenge together! 💪🔥
 | [0273-integer-to-english-words](https://github.com/Kamna16/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0564-find-the-closest-palindrome](https://github.com/Kamna16/CrackYourPlacement/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/Kamna16/CrackYourPlacement/tree/master/0587-erect-the-fence) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Kamna16/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Kamna16/CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Kamna16/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamna16/CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -544,6 +583,7 @@ Let’s crack this challenge together! 💪🔥
 ## Iterator
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Kamna16/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/Kamna16/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 ## Database
 |  |
@@ -570,6 +610,7 @@ Let’s crack this challenge together! 💪🔥
 | [0068-text-justification](https://github.com/Kamna16/CrackYourPlacement/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Kamna16/CrackYourPlacement/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Kamna16/CrackYourPlacement/tree/master/0289-game-of-life) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Kamna16/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 ## Number Theory
 |  |
@@ -590,10 +631,13 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Kamna16/CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Kamna16/CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0999-regions-cut-by-slashes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Kamna16/CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -606,4 +650,8 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Kamna16/CrackYourPlacement/tree/master/0493-reverse-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Kamna16/CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
