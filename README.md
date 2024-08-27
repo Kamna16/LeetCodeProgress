@@ -98,6 +98,7 @@ Let’s crack this challenge together! 💪🔥
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kamna16/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Kamna16/CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/Kamna16/CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1622-max-value-of-equation](https://github.com/Kamna16/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kamna16/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 ## Stack
@@ -176,6 +177,7 @@ Let’s crack this challenge together! 💪🔥
 | [1022-unique-paths-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Kamna16/CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1196-filling-bookcase-shelves](https://github.com/Kamna16/CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
+| [1325-path-with-maximum-probability](https://github.com/Kamna16/CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Kamna16/CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kamna16/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1511-count-number-of-teams](https://github.com/Kamna16/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
@@ -482,12 +484,14 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Kamna16/CrackYourPlacement/tree/master/0547-number-of-provinces) |
+| [1325-path-with-maximum-probability](https://github.com/Kamna16/CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Kamna16/CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Kamna16/CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/Kamna16/CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Kamna16/CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Bit Manipulation
