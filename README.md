@@ -174,6 +174,7 @@ Let’s crack this challenge together! 💪🔥
 | [0921-spiral-matrix-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0948-sort-an-array) |
+| [0971-shortest-bridge](https://github.com/Kamna16/CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1022-unique-paths-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Kamna16/CrackYourPlacement/tree/master/1036-rotting-oranges) |
@@ -219,6 +220,7 @@ Let’s crack this challenge together! 💪🔥
 | [0617-merge-two-binary-trees](https://github.com/Kamna16/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0971-shortest-bridge](https://github.com/Kamna16/CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Kamna16/CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Kamna16/CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -236,6 +238,7 @@ Let’s crack this challenge together! 💪🔥
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kamna16/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/Kamna16/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
+| [0971-shortest-bridge](https://github.com/Kamna16/CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1022-unique-paths-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Kamna16/CrackYourPlacement/tree/master/1036-rotting-oranges) |
@@ -411,6 +414,7 @@ Let’s crack this challenge together! 💪🔥
 | [0662-maximum-width-of-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Kamna16/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0971-shortest-bridge](https://github.com/Kamna16/CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [0999-regions-cut-by-slashes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Kamna16/CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
