@@ -165,6 +165,7 @@ Let’s crack this challenge together! 💪🔥
 | [0621-task-scheduler](https://github.com/Kamna16/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kamna16/CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Kamna16/CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/Kamna16/CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0870-magic-squares-in-grid](https://github.com/Kamna16/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
@@ -189,6 +190,7 @@ Let’s crack this challenge together! 💪🔥
 | [1762-furthest-building-you-can-reach](https://github.com/Kamna16/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Kamna16/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Kamna16/CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [2035-count-sub-islands](https://github.com/Kamna16/CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Kamna16/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -222,6 +224,7 @@ Let’s crack this challenge together! 💪🔥
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Kamna16/CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Kamna16/CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Kamna16/CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Kamna16/CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Kamna16/CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Matrix
 |  |
@@ -238,6 +241,7 @@ Let’s crack this challenge together! 💪🔥
 | [1036-rotting-oranges](https://github.com/Kamna16/CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kamna16/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Kamna16/CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Kamna16/CrackYourPlacement/tree/master/2035-count-sub-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -300,6 +304,7 @@ Let’s crack this challenge together! 💪🔥
 | [0650-2-keys-keyboard](https://github.com/Kamna16/CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Kamna16/CrackYourPlacement/tree/master/0664-strange-printer) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Kamna16/CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1196-filling-bookcase-shelves](https://github.com/Kamna16/CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kamna16/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -411,6 +416,7 @@ Let’s crack this challenge together! 💪🔥
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Kamna16/CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Kamna16/CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Kamna16/CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Kamna16/CrackYourPlacement/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -454,6 +460,7 @@ Let’s crack this challenge together! 💪🔥
 | [0410-split-array-largest-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Kamna16/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kamna16/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
@@ -480,6 +487,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Graph
 |  |
 | ------- |
@@ -534,6 +542,7 @@ Let’s crack this challenge together! 💪🔥
 | [0239-sliding-window-maximum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1622-max-value-of-equation](https://github.com/Kamna16/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Quickselect
@@ -638,6 +647,7 @@ Let’s crack this challenge together! 💪🔥
 | [0547-number-of-provinces](https://github.com/Kamna16/CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0999-regions-cut-by-slashes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Kamna16/CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2035-count-sub-islands](https://github.com/Kamna16/CrackYourPlacement/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -654,4 +664,8 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Kamna16/CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
