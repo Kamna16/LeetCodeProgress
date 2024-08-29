@@ -263,6 +263,7 @@ Let’s crack this challenge together! 💪🔥
 | [0778-reorganize-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0870-magic-squares-in-grid](https://github.com/Kamna16/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Kamna16/CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kamna16/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Kamna16/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -416,6 +417,7 @@ Let’s crack this challenge together! 💪🔥
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/Kamna16/CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Kamna16/CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Kamna16/CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Kamna16/CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -496,6 +498,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Kamna16/CrackYourPlacement/tree/master/0547-number-of-provinces) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Kamna16/CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Kamna16/CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Kamna16/CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -649,6 +652,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Kamna16/CrackYourPlacement/tree/master/0547-number-of-provinces) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Kamna16/CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Kamna16/CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2035-count-sub-islands](https://github.com/Kamna16/CrackYourPlacement/tree/master/2035-count-sub-islands) |
