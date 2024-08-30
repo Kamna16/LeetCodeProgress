@@ -101,6 +101,7 @@ Let’s crack this challenge together! 💪🔥
 | [1325-path-with-maximum-probability](https://github.com/Kamna16/CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1622-max-value-of-equation](https://github.com/Kamna16/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kamna16/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
+| [2803-modify-graph-edge-weights](https://github.com/Kamna16/CrackYourPlacement/tree/master/2803-modify-graph-edge-weights) |
 ## Stack
 |  |
 | ------- |
@@ -503,12 +504,14 @@ Let’s crack this challenge together! 💪🔥
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Kamna16/CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Kamna16/CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2803-modify-graph-edge-weights](https://github.com/Kamna16/CrackYourPlacement/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Kamna16/CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Kamna16/CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2803-modify-graph-edge-weights](https://github.com/Kamna16/CrackYourPlacement/tree/master/2803-modify-graph-edge-weights) |
 ## Bit Manipulation
 |  |
 | ------- |
