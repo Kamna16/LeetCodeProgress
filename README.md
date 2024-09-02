@@ -192,6 +192,7 @@ Let’s crack this challenge together! 💪🔥
 | [1762-furthest-building-you-can-reach](https://github.com/Kamna16/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Kamna16/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Kamna16/CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Kamna16/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Kamna16/CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Kamna16/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -474,6 +475,7 @@ Let’s crack this challenge together! 💪🔥
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kamna16/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Kamna16/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Kamna16/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Backtracking
 |  |
 | ------- |
@@ -633,6 +635,7 @@ Let’s crack this challenge together! 💪🔥
 | [0289-game-of-life](https://github.com/Kamna16/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Kamna16/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Kamna16/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Number Theory
 |  |
@@ -644,6 +647,7 @@ Let’s crack this challenge together! 💪🔥
 | [0209-minimum-size-subarray-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Kamna16/CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Kamna16/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Segment Tree
 |  |
 | ------- |
