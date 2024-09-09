@@ -139,6 +139,7 @@ Let’s crack this challenge together! 💪🔥
 | [0042-trapping-rain-water](https://github.com/Kamna16/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Kamna16/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Kamna16/CrackYourPlacement/tree/master/0051-n-queens) |
+| [0059-spiral-matrix-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Kamna16/CrackYourPlacement/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kamna16/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
@@ -245,6 +246,7 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kamna16/CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Kamna16/CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/Kamna16/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kamna16/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -648,6 +650,7 @@ Let’s crack this challenge together! 💪🔥
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Kamna16/CrackYourPlacement/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Kamna16/CrackYourPlacement/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Kamna16/CrackYourPlacement/tree/master/0289-game-of-life) |
