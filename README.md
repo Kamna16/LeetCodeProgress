@@ -37,6 +37,7 @@ Let’s crack this challenge together! 💪🔥
 | [0146-lru-cache](https://github.com/Kamna16/CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0148-sort-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/Kamna16/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -203,6 +204,7 @@ Let’s crack this challenge together! 💪🔥
 | [2155-find-missing-observations](https://github.com/Kamna16/CrackYourPlacement/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2411-spiral-matrix-iv](https://github.com/Kamna16/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2727-number-of-senior-citizens](https://github.com/Kamna16/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Monotonic Stack
@@ -256,6 +258,7 @@ Let’s crack this challenge together! 💪🔥
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Kamna16/CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Kamna16/CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/Kamna16/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -655,6 +658,7 @@ Let’s crack this challenge together! 💪🔥
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Kamna16/CrackYourPlacement/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Kamna16/CrackYourPlacement/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/Kamna16/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 ## Number Theory
 |  |
 | ------- |
