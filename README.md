@@ -542,6 +542,7 @@ Let’s crack this challenge together! 💪🔥
 | [0526-beautiful-arrangement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Kamna16/CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1022-unique-paths-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1022-unique-paths-iii) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Kamna16/CrackYourPlacement/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Math
 |  |
 | ------- |
