@@ -204,6 +204,7 @@ Let’s crack this challenge together! 💪🔥
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/Kamna16/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Kamna16/CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/Kamna16/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Monotonic Stack
@@ -552,6 +553,7 @@ Let’s crack this challenge together! 💪🔥
 | [1435-xor-queries-of-a-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kamna16/CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Kamna16/CrackYourPlacement/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Kamna16/CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Math
 |  |
 | ------- |
@@ -720,4 +722,8 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Kamna16/CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
