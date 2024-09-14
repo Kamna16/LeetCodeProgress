@@ -266,6 +266,7 @@ Let’s crack this challenge together! 💪🔥
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kamna16/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Kamna16/CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Kamna16/CrackYourPlacement/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Kamna16/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
@@ -341,6 +342,7 @@ Let’s crack this challenge together! 💪🔥
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kamna16/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0068-text-justification](https://github.com/Kamna16/CrackYourPlacement/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Kamna16/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Kamna16/CrackYourPlacement/tree/master/0091-decode-ways) |
@@ -584,6 +586,7 @@ Let’s crack this challenge together! 💪🔥
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kamna16/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Kamna16/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
