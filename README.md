@@ -179,6 +179,7 @@ Let’s crack this challenge together! 💪🔥
 | [0921-spiral-matrix-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0948-sort-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [0971-shortest-bridge](https://github.com/Kamna16/CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1022-unique-paths-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1022-unique-paths-iii) |
@@ -283,6 +284,7 @@ Let’s crack this challenge together! 💪🔥
 | [0870-magic-squares-in-grid](https://github.com/Kamna16/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/Kamna16/CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
+| [0966-binary-subarrays-with-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Kamna16/CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kamna16/CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -597,6 +599,7 @@ Let’s crack this challenge together! 💪🔥
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0966-binary-subarrays-with-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1622-max-value-of-equation](https://github.com/Kamna16/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Quickselect
@@ -692,6 +695,7 @@ Let’s crack this challenge together! 💪🔥
 | [0209-minimum-size-subarray-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Kamna16/CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
+| [0966-binary-subarrays-with-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kamna16/CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Kamna16/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
