@@ -1,22 +1,31 @@
 class Solution {
 public:
-    vector<vector<int>> dp;
-    int n, m;
-    int solve(string &text1, string &text2,int i, int j)
-    {
-        if(i== n || j== m) return 0;
-        if(dp[i][j] != -1) return dp[i][j];
-        if(text1[i] == text2[j])
-        {
-            return dp[i][j] = 1 + solve(text1,text2,i+1,j+1);
-        }
-        return dp[i][j] = max(solve(text1,text2,i+1,j), solve(text1,text2,i,j+1));
-    }
+    
     int longestCommonSubsequence(string text1, string text2) {
-        n = text1.size();
-        m = text2.size();
+        int n = text1.size();
+        int m = text2.size();
         if(n <= 0 || m <= 0) return 0;
-        dp.resize(n+1, vector<int>(m+1,-1));
-        return solve(text1,text2,0,0);
+       vector<vector<int>> dp(n+1, vector<int>(m+1));
+       for(int i=0;i<n+1;i++)
+       {
+            dp[i][0] = 0;
+       }
+       for(int i=0;i<m+1;i++)
+       {
+            dp[0][i] = 0;
+       }
+       for(int i=1;i<n+1;i++)
+       {
+            for(int j=1;j<m+1;j++)
+            {
+                if(text1[i-1] == text2[j-1])
+                {
+                    dp[i][j] = 1+ dp[i-1][j-1];
+                }else{
+                    dp[i][j] = max(dp[i-1][j], dp[i][j-1]);
+                }
+            }
+       }
+       return dp[n][m];
     }
 };
