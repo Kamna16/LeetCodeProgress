@@ -67,6 +67,7 @@ Let’s crack this challenge together! 💪🔥
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kamna16/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Kamna16/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0539-minimum-time-difference](https://github.com/Kamna16/CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/Kamna16/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0778-reorganize-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0778-reorganize-string) |
@@ -165,6 +166,7 @@ Let’s crack this challenge together! 💪🔥
 | [0474-ones-and-zeroes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/Kamna16/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0526-beautiful-arrangement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
+| [0539-minimum-time-difference](https://github.com/Kamna16/CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0587-erect-the-fence](https://github.com/Kamna16/CrackYourPlacement/tree/master/0587-erect-the-fence) |
 | [0621-task-scheduler](https://github.com/Kamna16/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kamna16/CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
@@ -359,6 +361,7 @@ Let’s crack this challenge together! 💪🔥
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0539-minimum-time-difference](https://github.com/Kamna16/CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0541-reverse-string-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/Kamna16/CrackYourPlacement/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Kamna16/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
@@ -578,6 +581,7 @@ Let’s crack this challenge together! 💪🔥
 | [0273-integer-to-english-words](https://github.com/Kamna16/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0539-minimum-time-difference](https://github.com/Kamna16/CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Kamna16/CrackYourPlacement/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/Kamna16/CrackYourPlacement/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Kamna16/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
