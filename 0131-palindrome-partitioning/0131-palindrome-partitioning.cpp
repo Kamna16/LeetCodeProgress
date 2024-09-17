@@ -1,38 +1,38 @@
 class Solution {
 public:
     vector<vector<string>> ans;
-    int n;
-    bool isPalindrome(string s, int left,int right)
+    bool palindrome(string s, int start, int end)
     {
-        while (left < right) {
-            if (s[left] != s[right])
-                return false;
-            left++;
-            right--;
+        while(start <= end)
+        {
+            if(s[start] != s[end]) return false;
+
+            start++;
+            end--;
         }
         return true;
     }
-    void solve(string &s, int idx, vector<string> &curr)
+    void solve(string s, vector<string> &curr, int idx)
     {
-        if(idx==n)
+        if(idx == s.size())
         {
             ans.push_back(curr);
             return;
         }
-        for(int i=idx;i<n;i++)
+
+        for(int i=idx;i<s.size();i++)
         {
-            if(isPalindrome(s,idx,i))
-            {
-                curr.push_back(s.substr(idx,i-idx+1));
-                solve(s,i+1,curr);
+            if(palindrome(s,idx,i)){
+                string str = s.substr(idx,i-idx+1);
+                curr.push_back(str);
+                solve(s,curr,i+1);
                 curr.pop_back();
             }
         }
     }
     vector<vector<string>> partition(string s) {
-        n = s.size();
         vector<string> curr;
-        solve(s,0,curr);
+        solve(s,curr,0);
         return ans;
     }
 };
