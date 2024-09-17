@@ -1,22 +1,27 @@
 class Solution {
 public:
     vector<vector<int>> ans;
-    void solve(int start, int n, int k, vector<int> &temp)
+    void solve(int n, int k, vector<int> &curr,int idx)
     {
-        if(k==0)
+        if(curr.size() == k)
         {
-            ans.push_back(temp);
+            sort(curr.begin(),curr.end());
+            ans.push_back(curr);
             return;
         }
-        if(start > n) return;
-        temp.push_back(start);
-        solve(start+1,n,k-1,temp);
-        temp.pop_back();
-        solve(start+1,n,k,temp);
+
+        for(int i=idx;i<=n;i++)
+        {
+            if(find(curr.begin(),curr.end(), i) != curr.end()) continue;
+            curr.push_back(i);
+            solve(n,k,curr,i+1);
+            curr.pop_back();
+        }
     }
     vector<vector<int>> combine(int n, int k) {
-        vector<int> temp;
-        solve(1,n,k,temp);
+        vector<int> curr;
+        solve(n,k,curr,1);
+        
         return ans;
     }
 };
