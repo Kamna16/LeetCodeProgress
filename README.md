@@ -128,6 +128,7 @@ Let’s crack this challenge together! 💪🔥
 | [0143-reorder-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0273-integer-to-english-words](https://github.com/Kamna16/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/Kamna16/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -344,6 +345,7 @@ Let’s crack this challenge together! 💪🔥
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Kamna16/CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [1013-fibonacci-number](https://github.com/Kamna16/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/Kamna16/CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/Kamna16/CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kamna16/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -603,6 +605,7 @@ Let’s crack this challenge together! 💪🔥
 | [0592-fraction-addition-and-subtraction](https://github.com/Kamna16/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Kamna16/CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Kamna16/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
+| [1013-fibonacci-number](https://github.com/Kamna16/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [2155-find-missing-observations](https://github.com/Kamna16/CrackYourPlacement/tree/master/2155-find-missing-observations) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamna16/CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Randomized
@@ -755,6 +758,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Kamna16/CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1013-fibonacci-number](https://github.com/Kamna16/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Rolling Hash
 |  |
 | ------- |
