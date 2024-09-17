@@ -136,6 +136,7 @@ Let’s crack this challenge together! 💪🔥
 | [0033-search-in-rotated-sorted-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Kamna16/CrackYourPlacement/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Kamna16/CrackYourPlacement/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Kamna16/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
@@ -534,6 +535,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kamna16/CrackYourPlacement/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kamna16/CrackYourPlacement/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Kamna16/CrackYourPlacement/tree/master/0051-n-queens) |
