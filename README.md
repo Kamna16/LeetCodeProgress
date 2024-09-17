@@ -141,6 +141,7 @@ Let’s crack this challenge together! 💪🔥
 | [0059-spiral-matrix-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Kamna16/CrackYourPlacement/tree/master/0068-text-justification) |
+| [0078-subsets](https://github.com/Kamna16/CrackYourPlacement/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kamna16/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0090-subsets-ii) |
@@ -527,6 +528,7 @@ Let’s crack this challenge together! 💪🔥
 | [0040-combination-sum-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Kamna16/CrackYourPlacement/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Kamna16/CrackYourPlacement/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Kamna16/CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Kamna16/CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
@@ -563,6 +565,7 @@ Let’s crack this challenge together! 💪🔥
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Kamna16/CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0338-counting-bits](https://github.com/Kamna16/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0476-number-complement) |
