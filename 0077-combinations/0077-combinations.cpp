@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> ans;
-    void solve(int n, int k, vector<int> &curr,int idx)
+    void solve(int n, int k, vector<int> &curr,int i)
     {
         if(curr.size() == k)
         {
@@ -9,14 +9,12 @@ public:
             ans.push_back(curr);
             return;
         }
+        if(i > n) return;
 
-        for(int i=idx;i<=n;i++)
-        {
-            if(find(curr.begin(),curr.end(), i) != curr.end()) continue;
-            curr.push_back(i);
-            solve(n,k,curr,i+1);
-            curr.pop_back();
-        }
+        curr.push_back(i);
+        solve(n,k,curr,i+1);
+        curr.pop_back();
+        solve(n,k,curr,i+1);
     }
     vector<vector<int>> combine(int n, int k) {
         vector<int> curr;
