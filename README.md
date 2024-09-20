@@ -367,6 +367,7 @@ Let’s crack this challenge together! 💪🔥
 | [0131-palindrome-partitioning](https://github.com/Kamna16/CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
+| [0214-shortest-palindrome](https://github.com/Kamna16/CrackYourPlacement/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kamna16/CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Kamna16/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Kamna16/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
@@ -554,10 +555,12 @@ Let’s crack this challenge together! 💪🔥
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Kamna16/CrackYourPlacement/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Kamna16/CrackYourPlacement/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Graph
@@ -769,6 +772,7 @@ Let’s crack this challenge together! 💪🔥
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Kamna16/CrackYourPlacement/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Brainteaser
 |  |
