@@ -465,6 +465,7 @@ Let’s crack this challenge together! 💪🔥
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Kamna16/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/Kamna16/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
+| [0386-lexicographical-numbers](https://github.com/Kamna16/CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Kamna16/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kamna16/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Kamna16/CrackYourPlacement/tree/master/0547-number-of-provinces) |
@@ -759,6 +760,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/Kamna16/CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
 ## Ordered Set
 |  |
 | ------- |
