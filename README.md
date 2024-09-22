@@ -761,6 +761,7 @@ Let’s crack this challenge together! 💪🔥
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/Kamna16/CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Kamna16/CrackYourPlacement/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Ordered Set
 |  |
 | ------- |
