@@ -221,6 +221,7 @@ Let’s crack this challenge together! 💪🔥
 | [2411-spiral-matrix-iv](https://github.com/Kamna16/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Kamna16/CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/Kamna16/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Monotonic Stack
 |  |
@@ -306,6 +307,7 @@ Let’s crack this challenge together! 💪🔥
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Kamna16/CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Kamna16/CrackYourPlacement/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
@@ -357,6 +359,7 @@ Let’s crack this challenge together! 💪🔥
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Kamna16/CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Kamna16/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Kamna16/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -396,6 +399,7 @@ Let’s crack this challenge together! 💪🔥
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Kamna16/CrackYourPlacement/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Kamna16/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamna16/CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Bucket Sort
@@ -762,6 +766,7 @@ Let’s crack this challenge together! 💪🔥
 | [0208-implement-trie-prefix-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/Kamna16/CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Kamna16/CrackYourPlacement/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 ## Ordered Set
 |  |
 | ------- |
