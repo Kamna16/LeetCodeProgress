@@ -47,6 +47,7 @@ Let’s crack this challenge together! 💪🔥
 | [0151-reverse-words-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0541-reverse-string-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1028-interval-list-intersections](https://github.com/Kamna16/CrackYourPlacement/tree/master/1028-interval-list-intersections) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Kamna16/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Divide and Conquer
 |  |
@@ -194,6 +195,7 @@ Let’s crack this challenge together! 💪🔥
 | [0971-shortest-bridge](https://github.com/Kamna16/CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1022-unique-paths-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1022-unique-paths-iii) |
+| [1028-interval-list-intersections](https://github.com/Kamna16/CrackYourPlacement/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/Kamna16/CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1196-filling-bookcase-shelves](https://github.com/Kamna16/CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1325-path-with-maximum-probability](https://github.com/Kamna16/CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
