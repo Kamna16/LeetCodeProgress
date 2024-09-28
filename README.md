@@ -175,6 +175,7 @@ Let’s crack this challenge together! 💪🔥
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/Kamna16/CrackYourPlacement/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0539-minimum-time-difference](https://github.com/Kamna16/CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0587-erect-the-fence](https://github.com/Kamna16/CrackYourPlacement/tree/master/0587-erect-the-fence) |
@@ -355,6 +356,7 @@ Let’s crack this challenge together! 💪🔥
 | [0410-split-array-largest-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Kamna16/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0650-2-keys-keyboard](https://github.com/Kamna16/CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Kamna16/CrackYourPlacement/tree/master/0664-strange-printer) |
@@ -572,6 +574,7 @@ Let’s crack this challenge together! 💪🔥
 | [0131-palindrome-partitioning](https://github.com/Kamna16/CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Kamna16/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Kamna16/CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1022-unique-paths-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1022-unique-paths-iii) |
