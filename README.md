@@ -30,6 +30,7 @@ Let’s crack this challenge together! 💪🔥
 | [0143-reorder-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Kamna16/CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0148-sort-list) |
+| [0432-all-oone-data-structure](https://github.com/Kamna16/CrackYourPlacement/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Kamna16/CrackYourPlacement/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Kamna16/CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Kamna16/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
@@ -302,6 +303,7 @@ Let’s crack this challenge together! 💪🔥
 | [0347-top-k-frequent-elements](https://github.com/Kamna16/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/Kamna16/CrackYourPlacement/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0621-task-scheduler](https://github.com/Kamna16/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0778-reorganize-string) |
@@ -333,6 +335,7 @@ Let’s crack this challenge together! 💪🔥
 | [0307-range-sum-query-mutable](https://github.com/Kamna16/CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/Kamna16/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kamna16/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/Kamna16/CrackYourPlacement/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Kamna16/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kamna16/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -342,6 +345,7 @@ Let’s crack this challenge together! 💪🔥
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Kamna16/CrackYourPlacement/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/Kamna16/CrackYourPlacement/tree/master/0432-all-oone-data-structure) |
 ## Dynamic Programming
 |  |
 | ------- |
