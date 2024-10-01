@@ -48,6 +48,7 @@ Let’s crack this challenge together! 💪🔥
 | [0148-sort-list](https://github.com/Kamna16/CrackYourPlacement/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kamna16/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1028-interval-list-intersections](https://github.com/Kamna16/CrackYourPlacement/tree/master/1028-interval-list-intersections) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Kamna16/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -307,6 +308,7 @@ Let’s crack this challenge together! 💪🔥
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Kamna16/CrackYourPlacement/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Kamna16/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0870-magic-squares-in-grid](https://github.com/Kamna16/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
@@ -407,6 +409,7 @@ Let’s crack this challenge together! 💪🔥
 | [0539-minimum-time-difference](https://github.com/Kamna16/CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/0541-reverse-string-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/Kamna16/CrackYourPlacement/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Kamna16/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Kamna16/CrackYourPlacement/tree/master/0664-strange-printer) |
 | [0778-reorganize-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0778-reorganize-string) |
@@ -669,6 +672,7 @@ Let’s crack this challenge together! 💪🔥
 | [0239-sliding-window-maximum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kamna16/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Kamna16/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Kamna16/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
