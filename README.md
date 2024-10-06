@@ -53,6 +53,7 @@ Let’s crack this challenge together! 💪🔥
 | [0959-3sum-with-multiplicity](https://github.com/Kamna16/CrackYourPlacement/tree/master/0959-3sum-with-multiplicity) |
 | [1028-interval-list-intersections](https://github.com/Kamna16/CrackYourPlacement/tree/master/1028-interval-list-intersections) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Kamna16/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1923-sentence-similarity-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kamna16/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
@@ -233,6 +234,7 @@ Let’s crack this challenge together! 💪🔥
 | [1792-find-the-most-competitive-subsequence](https://github.com/Kamna16/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/Kamna16/CrackYourPlacement/tree/master/1813-maximum-erasure-value) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Kamna16/CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1923-sentence-similarity-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Kamna16/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Kamna16/CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Kamna16/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -439,6 +441,7 @@ Let’s crack this challenge together! 💪🔥
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kamna16/CrackYourPlacement/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kamna16/CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Kamna16/CrackYourPlacement/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1923-sentence-similarity-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Kamna16/CrackYourPlacement/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Kamna16/CrackYourPlacement/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
