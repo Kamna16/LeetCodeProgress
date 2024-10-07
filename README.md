@@ -133,6 +133,7 @@ Let’s crack this challenge together! 💪🔥
 | [1666-make-the-string-great](https://github.com/Kamna16/CrackYourPlacement/tree/master/1666-make-the-string-great) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Kamna16/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Kamna16/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Kamna16/CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -448,6 +449,7 @@ Let’s crack this challenge together! 💪🔥
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Kamna16/CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2727-number-of-senior-citizens](https://github.com/Kamna16/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Kamna16/CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Kamna16/CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamna16/CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kamna16/CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -784,6 +786,7 @@ Let’s crack this challenge together! 💪🔥
 | [2132-convert-1d-array-into-2d-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Kamna16/CrackYourPlacement/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Kamna16/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Kamna16/CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Number Theory
 |  |
 | ------- |
