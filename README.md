@@ -54,6 +54,7 @@ Let’s crack this challenge together! 💪🔥
 | [1028-interval-list-intersections](https://github.com/Kamna16/CrackYourPlacement/tree/master/1028-interval-list-intersections) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Kamna16/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Kamna16/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kamna16/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
@@ -133,6 +134,7 @@ Let’s crack this challenge together! 💪🔥
 | [1666-make-the-string-great](https://github.com/Kamna16/CrackYourPlacement/tree/master/1666-make-the-string-great) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Kamna16/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Kamna16/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Kamna16/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Kamna16/CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
@@ -445,6 +447,7 @@ Let’s crack this challenge together! 💪🔥
 | [1923-sentence-similarity-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Kamna16/CrackYourPlacement/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Kamna16/CrackYourPlacement/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Kamna16/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kamna16/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Kamna16/CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2727-number-of-senior-citizens](https://github.com/Kamna16/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
@@ -726,6 +729,7 @@ Let’s crack this challenge together! 💪🔥
 | [1762-furthest-building-you-can-reach](https://github.com/Kamna16/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Kamna16/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Kamna16/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Kamna16/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamna16/CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
