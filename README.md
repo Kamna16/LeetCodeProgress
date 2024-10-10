@@ -130,6 +130,7 @@ Let’s crack this challenge together! 💪🔥
 | [0937-online-stock-span](https://github.com/Kamna16/CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kamna16/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Kamna16/CrackYourPlacement/tree/master/1002-maximum-width-ramp) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kamna16/CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1666-make-the-string-great](https://github.com/Kamna16/CrackYourPlacement/tree/master/1666-make-the-string-great) |
@@ -215,6 +216,7 @@ Let’s crack this challenge together! 💪🔥
 | [0966-binary-subarrays-with-sum](https://github.com/Kamna16/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [0971-shortest-bridge](https://github.com/Kamna16/CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Kamna16/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/Kamna16/CrackYourPlacement/tree/master/1002-maximum-width-ramp) |
 | [1022-unique-paths-iii](https://github.com/Kamna16/CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1028-interval-list-intersections](https://github.com/Kamna16/CrackYourPlacement/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/Kamna16/CrackYourPlacement/tree/master/1036-rotting-oranges) |
@@ -262,6 +264,7 @@ Let’s crack this challenge together! 💪🔥
 | [0739-daily-temperatures](https://github.com/Kamna16/CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Kamna16/CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kamna16/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/Kamna16/CrackYourPlacement/tree/master/1002-maximum-width-ramp) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Kamna16/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Breadth-First Search
 |  |
